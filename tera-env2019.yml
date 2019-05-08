@@ -1,0 +1,38 @@
+name: tera-env
+channels:
+  - anaconda-fusion
+  - defaults
+  - conda-forge
+dependencies:
+  - bokeh=0.13
+  - gensim=3.4.0
+  - google-cloud-bigquery=1.10.0  - imbalanced-learn=0.3.3
+  - ipython=7.0.1
+   - keras=2.1.5
+  - lightgbm=2.1.0
+  - matplotlib=2.2.2
+  - nltk=3.2.5
+  - notebook=5.4.1
+  - numpy=1.12.1
+  - pandas=0.22.0
+  - pandas-datareader=0.7.0- patsy=0.5.0
+  - pip=9.0.3
+  - plotly=3.3.0
+  - python=3.7
+  - python-cufflinks=0.14.5
+  - python-graphviz=0.8.2
+  - requests=2.18.4
+  - scikit-image=0.14.0
+
+  - scikit-learn=0.19.1
+  - scipy=1.0.1
+  - seaborn=0.9.0
+  - shap=0.27.0  - sqlite=3.22.0
+  - statsmodels=0.8.0
+  - tensorflow=1.5.0
+  - tqdm=4.22.0
+  - py-xgboost=0.60
+  - spacy=2.0.11
+  - boto=2.48.0
+  - boto3=1.7.45
+  - botocore=1.10.45
