@@ -1,6 +1,6 @@
 # Aula 09 - Visualização de dados para tomada de decisão
 
-## Pré-Aula
+## Links úteis
 * [Seaborn Introduction](https://seaborn.pydata.org/introduction.html) - Tutorial de introdução ao Seaborn
 
 * [Plots com Matplotlib](http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html) - Tutorial de plots com matplotlib. No [final do tutorial](http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html#other-types-of-plots-examples-and-exercises) possui desafios para praticar diversos tipos de gráficos.
