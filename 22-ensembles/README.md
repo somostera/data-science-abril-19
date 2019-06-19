@@ -17,3 +17,5 @@
 [Outros conselhos práticas para se utilizar florestas aleatórias](http://afiodorov.github.io/2016/05/05/practical-advice-for-random-forests/)
 
 [Eu passei esse post sobre Bias vs Variance no pós-aula anterior, mas seria interessante revisitá-lo após essa aula](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
+
+[Por que é importante amostrar com reposição em Bagging e RandomForests](https://www.quora.com/Why-does-random-forest-use-sampling-with-replacement-instead-of-without-replacement)
