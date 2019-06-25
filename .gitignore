@@ -204,7 +204,6 @@ Temporary Items
 
 # Unison                                                                           1
 *.unison
-*.zip
 .unison*
 
 
